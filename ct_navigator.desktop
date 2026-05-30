@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=ct_navigator
+X-Python-2-Compatible=false
+Name=CT Workflow
+Comment=Canvas thumbnail preview with blur, desaturate, and invert effects

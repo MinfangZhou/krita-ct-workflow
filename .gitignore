@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Backup directories (development only)
+BACKUP_*/
+ct_workflow_backup_*/
+hotfix_001_backup/
+pre_github_release_backup/
+archive/
+
+# Debug & test artifacts
+debug_*.py
+_audit_tmp.py
+test_*.py
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
