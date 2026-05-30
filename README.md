@@ -1,4 +1,5 @@
-# CT Workflow — Krita Docker Plugin
+# CT Workflow — Krita Docker Plugin 
+[English](README.md) | [中文](README.zh-CN.md)
 
 A lightweight canvas thumbnail preview panel for Krita with real-time effects across **Readability**, **Value**, and **Color** observation.
 
